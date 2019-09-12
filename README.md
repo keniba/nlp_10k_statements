@@ -15,4 +15,4 @@ This Project:
  
 ---
 
-**note:** uses end of day from Quotemedia and Loughran-McDonald sentiment word lists which could not be shared due to licensing restrictions
+**note:** uses end of day from Quotemedia which could not be shared due to licensing restrictions
